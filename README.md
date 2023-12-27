@@ -1,27 +1,18 @@
-# Version Control with Git
-
-This is the repo for [Udacity's Version Control with Git course](https://www.udacity.com/course/version-control-with-git--ud123). In the course, students will learn version control while learning the basics to intermediate knowledge of Git.
-
-This repo contains the source code of a blog project that will be used throughout the course.
-
-## Table of Contents
+# Data exploration on Bikeshare data with Python
 
 * [Instructions](#instructions)
 * [Creator](#creators)
 
-## Instructions
+## Project Data
 
-* clone the project
-* open the index file in a browser
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ## Creators
 
-* Richard Kalehoff
-    - [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
-    - [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
+* Johanna Peterson (Sjörén)
+    - [https://github.com/johannasjoren/course-git-blog-project](https://github.com/johannasjoren/course-git-blog-project)
 
-With the help of:
 
-* Colt
-* James
-* Julia
+
