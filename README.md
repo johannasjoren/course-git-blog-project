@@ -7,6 +7,9 @@ In this Bikeshare project I have analyzed bikeshare data from Chicago, New York 
 * new_york_city.csv
 * washington.csv
 
+## Analysis details
+In the project I have analyzed e.g. most common start and end station, most common start time etc.
+
 ## Creators
 
 * Johanna Peterson (Sjörén)
