@@ -1,6 +1,6 @@
 # Data exploration on Bikeshare data with Python
 
-In this Bikeshare project I have analyzed bikeshare data from Chicago, New Tork City and Washington.
+In this Bikeshare project I have analyzed bikeshare data from Chicago, New York City and Washington.
 ## Project Data
 
 * chicago.csv
