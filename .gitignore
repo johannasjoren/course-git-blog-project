@@ -1,3 +1,4 @@
-project.docx
-.DS_Store
-.github/**
+# Ignore files
+chicago.csv
+new_york_city.csv
+washington.csv
